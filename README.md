@@ -1,3 +1,5 @@
+<html>
+<body>
 <a href="https://twitter.com/karpathy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Andrej Karpathy (@karpathy) | Twitter</a> <br>
 <a href="https://twitter.com/jcjohnss?lang=en">Justin Johnson (@jcjohnss) / Twitter</a> <br>
 <a href="https://www.facebook.com/groups/543283492502370/user/780159662">Yam Peleg | Facebook</a> <br>
@@ -16,4 +18,6 @@
 <a href="https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg/videos">Two Minute Papers - YouTube</a> <br>
 <a href="https://paperswithcode.com/">The latest in Machine Learning | Papers With Code</a> <br>
 <a href="https://chiportal.co.il/">בית - Chiportal</a> <br>
+</body>
+</html>
 
